@@ -17,7 +17,7 @@
     "amqplib": "^0.5.5",
     "husky": "^4.2.3",
     "mongoose": "^5.9.9",
-    "pm2": "^4.2.3",
+    "pm2": "^5.2.0",
     "typescript": "^3.8.2"
   },
   "devDependencies": {
